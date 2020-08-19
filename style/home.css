@@ -1,0 +1,28 @@
+#navbarNav{
+    opacity: 0.8px;
+}
+
+.carousel-item{
+    background-size: cover;
+    height: 700px;
+}
+
+#img-3{
+    height: 700px;
+    width: 1600px;
+}
+
+.navbar :hover{
+    color: black;
+}
+#im-13{
+    height: 454px;
+}
+.header{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.text-center{
+    color: black;
+}
+    
